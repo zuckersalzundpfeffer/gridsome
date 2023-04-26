@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.2](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/compare/@gridsome/source-ghost@0.4.1...@gridsome/source-ghost@0.4.2) (2023-04-26)
+
+**Note:** Version bump only for package @gridsome/source-ghost
+
+
+
+
+
 ## [0.4.1](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/compare/@gridsome/source-ghost@0.4.0...@gridsome/source-ghost@0.4.1) (2023-04-26)
 
 **Note:** Version bump only for package @gridsome/source-ghost

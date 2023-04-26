@@ -1,5 +1,5 @@
 {
-  "version": "0.8.0",
+  "version": "0.9.0",
   "name": "@zuckersalundpfeffer/gridsome",
   "description": "A JAMstack framework for building blazing fast websites with Vue.js",
   "homepage": "https://zuckersalzundpfeffer.de",
@@ -23,7 +23,7 @@
   "dependencies": {
     "@babel/code-frame": "^7.14.5",
     "@babel/core": "^7.14.6",
-    "@gridsome/cli": "^0.4.0",
+    "@gridsome/cli": "^0.4.1",
     "@hapi/joi": "^15.1.1",
     "@sindresorhus/slugify": "^1.1.0",
     "@soda/friendly-errors-webpack-plugin": "^1.8.0",

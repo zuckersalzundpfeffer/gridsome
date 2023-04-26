@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.7.1](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/compare/@gridsome/source-contentful@0.7.0...@gridsome/source-contentful@0.7.1) (2023-04-26)
+
+**Note:** Version bump only for package @gridsome/source-contentful
+
+
+
+
+
 # [0.7.0](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/compare/@gridsome/source-contentful@0.6.0...@gridsome/source-contentful@0.7.0) (2023-04-26)
 
 

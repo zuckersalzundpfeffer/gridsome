@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.6.4](https://github.com/gridsome/gridsome/tree/master/packages/source-filesystem/compare/@gridsome/source-filesystem@0.6.3...@gridsome/source-filesystem@0.6.4) (2023-04-26)
+
+**Note:** Version bump only for package @gridsome/source-filesystem
+
+
+
+
+
 ## [0.6.3](https://github.com/gridsome/gridsome/tree/master/packages/source-filesystem/compare/@gridsome/source-filesystem@0.6.2...@gridsome/source-filesystem@0.6.3) (2023-04-26)
 
 **Note:** Version bump only for package @gridsome/source-filesystem

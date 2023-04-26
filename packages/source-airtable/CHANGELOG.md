@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/gridsome/gridsome/tree/master/packages/source-airtable/compare/@gridsome/source-airtable@0.2.1...@gridsome/source-airtable@0.2.2) (2023-04-26)
+
+**Note:** Version bump only for package @gridsome/source-airtable
+
+
+
+
+
 ## [0.2.1](https://github.com/gridsome/gridsome/tree/master/packages/source-airtable/compare/@gridsome/source-airtable@0.2.0...@gridsome/source-airtable@0.2.1) (2023-04-26)
 
 **Note:** Version bump only for package @gridsome/source-airtable

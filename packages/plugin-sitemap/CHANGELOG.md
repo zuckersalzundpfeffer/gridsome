@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.1](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/compare/@gridsome/plugin-sitemap@0.5.0...@gridsome/plugin-sitemap@0.5.1) (2023-04-26)
+
+**Note:** Version bump only for package @gridsome/plugin-sitemap
+
+
+
+
+
 # [0.5.0](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/compare/@gridsome/plugin-sitemap@0.4.0...@gridsome/plugin-sitemap@0.5.0) (2023-04-26)
 
 
