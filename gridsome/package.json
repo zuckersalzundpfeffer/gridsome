@@ -1,9 +1,9 @@
 {
   "version": "0.8.0",
-  "name": "gridsome",
+  "name": "@zuckersalundpfeffer/gridsome",
   "description": "A JAMstack framework for building blazing fast websites with Vue.js",
-  "homepage": "https://gridsome.org",
-  "repository": "https://github.com/gridsome/gridsome",
+  "homepage": "https://zuckersalzundpfeffer.de",
+  "repository": "https://github.com/zuckersalzundpfeffer/gridsome",
   "bugs": "https://github.com/gridsome/gridsome/issues",
   "license": "MIT",
   "main": "index.js",
@@ -123,5 +123,6 @@
     {
       "name": "Hans-Jørgen Vedvik (@hjvedvik)"
     }
-  ]
+  ],
+  "gitHead": "31106b6907fc7d1148098e5d0fcad78daeb10715"
 }
