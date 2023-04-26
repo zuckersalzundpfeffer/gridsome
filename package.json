@@ -1,6 +1,4 @@
 {
-  "name": "ZSP_Latest_Gridsome",
-  "version": "0.7.13",
   "private": true,
   "workspaces": [
     "gridsome",
