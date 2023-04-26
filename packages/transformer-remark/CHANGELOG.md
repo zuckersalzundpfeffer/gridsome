@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.6.5](https://github.com/gridsome/gridsome/tree/master/packages/transformer-remark/compare/@gridsome/transformer-remark@0.6.4...@gridsome/transformer-remark@0.6.5) (2023-04-26)
+
+
+### Bug Fixes
+
+* **remark:** fix return value from visitor ([#1586](https://github.com/gridsome/gridsome/tree/master/packages/transformer-remark/issues/1586)) ([bd8ce90](https://github.com/gridsome/gridsome/tree/master/packages/transformer-remark/commit/bd8ce909694c6761bce1d8ac1e6f706d30ee47af))
+
+
+
+
+
 ## [0.6.4](https://github.com/gridsome/gridsome/tree/master/packages/transformer-remark/compare/@gridsome/transformer-remark@0.6.3...@gridsome/transformer-remark@0.6.4) (2020-11-22)
 
 **Note:** Version bump only for package @gridsome/transformer-remark

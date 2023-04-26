@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/gridsome/gridsome/tree/master/packages/source-drupal/compare/@gridsome/source-drupal@0.4.1...@gridsome/source-drupal@0.5.0) (2023-04-26)
+
+
+### Features
+
+* **drupal:** handle path attribute in drupal's jsonapi response [ci skip] ([#1489](https://github.com/gridsome/gridsome/tree/master/packages/source-drupal/issues/1489)) ([6d86ffa](https://github.com/gridsome/gridsome/tree/master/packages/source-drupal/commit/6d86ffaacf0852bbcc5a669d2b4570c7042e4526))
+
+
+
+
+
 ## [0.4.1](https://github.com/gridsome/gridsome/tree/master/packages/source-drupal/compare/@gridsome/source-drupal@0.4.0...@gridsome/source-drupal@0.4.1) (2019-10-25)
 
 **Note:** Version bump only for package @gridsome/source-drupal

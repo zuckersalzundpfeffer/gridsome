@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.3.4...@gridsome/cli@0.4.0) (2023-04-26)
+
+
+### Bug Fixes
+
+* detect yarn 2 built from sources correctly ([70234ef](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/70234ef9d21d2b26308e3de2d0bca2f5f2948b29))
+
+
+### Features
+
+* **cli:** pick a starter when creating new site ([549d487](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/549d487704e1811582d45e435010cb86a2530c75))
+* **cli:** pick preferred package manger ([1336df0](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/1336df02372366425ad05c3d90a99cff6d9ca994))
+
+
+
+
+
 ## [0.3.4](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.3.3...@gridsome/cli@0.3.4) (2020-08-20)
 
 

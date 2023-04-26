@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "name": "@gridsome/source-graphql",
   "description": "GraphQL source for Gridsome",
   "homepage": "https://github.com/gridsome/gridsome/tree/master/packages/source-graphql#readme",
@@ -13,8 +13,8 @@
   "dependencies": {
     "@graphql-tools/utils": "^8.5.3",
     "@graphql-tools/wrap": "^8.3.2",
-    "node-fetch": "^2.6.1",
-    "graphql": "^16.0.1"
+    "graphql": "^16.0.1",
+    "node-fetch": "^2.6.1"
   },
   "peerDependencies": {
     "gridsome": "0.x"

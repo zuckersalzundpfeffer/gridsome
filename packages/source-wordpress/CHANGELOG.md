@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.4](https://github.com/gridsome/gridsome/tree/master/packages/source-wordpress/compare/@gridsome/source-wordpress@0.5.3...@gridsome/source-wordpress@0.5.4) (2023-04-26)
+
+
+### Bug Fixes
+
+* **wordpress:** paginated users endpoint ([#1405](https://github.com/gridsome/gridsome/tree/master/packages/source-wordpress/issues/1405)) ([3c0eff6](https://github.com/gridsome/gridsome/tree/master/packages/source-wordpress/commit/3c0eff6cfe69b12fc2922aaecc7964d33d75451e))
+
+
+
+
+
 ## [0.5.3](https://github.com/gridsome/gridsome/tree/master/packages/source-wordpress/compare/@gridsome/source-wordpress@0.5.2...@gridsome/source-wordpress@0.5.3) (2020-02-18)
 
 

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.7.0](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/compare/@gridsome/source-contentful@0.6.0...@gridsome/source-contentful@0.7.0) (2023-04-26)
+
+
+### Features
+
+* **contentful:** metadata for graphql nodes ([#1477](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/issues/1477)) ([6359713](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/6359713db9336b723e33781c935557a248d4837f))
+
+
+
+
+
 # [0.6.0](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/compare/@gridsome/source-contentful@0.5.3...@gridsome/source-contentful@0.6.0) (2020-09-18)
 
 

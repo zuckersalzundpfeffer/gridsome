@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/compare/@gridsome/plugin-critical@0.2.0...@gridsome/plugin-critical@0.3.0) (2023-04-26)
+
+
+### Features
+
+* **critical:** upgrade to critical v4 ([ee64443](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/commit/ee64443fec47546cd7039c2b0f56bde0f284f2f5))
+
+
+
+
+
 # [0.2.0](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/compare/@gridsome/plugin-critical@0.1.6...@gridsome/plugin-critical@0.2.0) (2020-08-25)
 
 

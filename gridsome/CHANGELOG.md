@@ -3,6 +3,78 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.8.0](https://github.com/gridsome/gridsome/compare/gridsome@0.7.23...gridsome@0.8.0) (2023-04-26)
+
+
+### Bug Fixes
+
+* **build:** don’t process existing images ([3fa9efb](https://github.com/gridsome/gridsome/commit/3fa9efb493fa5dcf7ac1e2eb3313374df90ed313))
+* **develop:** use some webpack dev server options ([d009325](https://github.com/gridsome/gridsome/commit/d0093257d5c676c05eee26b9089982121f34bc5b))
+* **develop:** yarn PnP in develop ([#1434](https://github.com/gridsome/gridsome/issues/1434)) ([c2a71f5](https://github.com/gridsome/gridsome/commit/c2a71f52962477f33988ed7700ee5ddb6b2acb40))
+* **g-image:** add height attribute ([#1257](https://github.com/gridsome/gridsome/issues/1257)) ([bc8d3c4](https://github.com/gridsome/gridsome/commit/bc8d3c4e0ab911215c43c41176608ec9f30ece82))
+* **g-image:** data uri w3c compliance ([#1438](https://github.com/gridsome/gridsome/issues/1438)) ([9330b63](https://github.com/gridsome/gridsome/commit/9330b6371cb7dfa0e1fe6c36ad9b8ba2318bbc27))
+* **g-image:** fallback to dataUri if image fails to load ([#1430](https://github.com/gridsome/gridsome/issues/1430)) ([0b4a4b5](https://github.com/gridsome/gridsome/commit/0b4a4b5957062f9d71f814dcd2ee8d1c3b8d847a))
+* **g-image:** height attribute in generated markup ([#1257](https://github.com/gridsome/gridsome/issues/1257)) ([71f4184](https://github.com/gridsome/gridsome/commit/71f41848a5fb53d180513118a662aeef6344e436))
+* **g-image:** improve edges in blurred placeholders ([7a2080e](https://github.com/gridsome/gridsome/commit/7a2080ef39621d4e15f97fffa3442404549009ac))
+* **g-image:** maintain blur placeholder aspect ratio ([7c81f8c](https://github.com/gridsome/gridsome/commit/7c81f8c0f96b14ed8da8645280af10ac519ec327))
+* **g-image:** optional `srcset` and `sizes` ([#1574](https://github.com/gridsome/gridsome/issues/1574)) ([dbb55d7](https://github.com/gridsome/gridsome/commit/dbb55d7c4180ca34c16cb74259721797dc1e83eb))
+* **graphql:** better error message for reserved type names ([#1388](https://github.com/gridsome/gridsome/issues/1388)) ([f9cfa4b](https://github.com/gridsome/gridsome/commit/f9cfa4b3a4c5156c55001320b8771504438df479))
+* **graphql:** return last node if no arguments ([#541](https://github.com/gridsome/gridsome/issues/541)) ([865728a](https://github.com/gridsome/gridsome/commit/865728a1275e79030cd3b7efebe32eeecb923714))
+* **gridsome:** add undeclared dependency vue-style-loader ([cbcede6](https://github.com/gridsome/gridsome/commit/cbcede6692e9a29bcce01f9ed112d508d9e653bc))
+* **gridsome:** require.resolve develop entries ([ceed033](https://github.com/gridsome/gridsome/commit/ceed033b168f14c866d4dc8210562a561b975dca))
+* **gridsome:** require.resolve style loaders ([1af3a9a](https://github.com/gridsome/gridsome/commit/1af3a9a3dc255b9ba5d5276f81c6353ef4441dea))
+* **gridsome:** require.resolve webpack loaders ([1c983d5](https://github.com/gridsome/gridsome/commit/1c983d575ed7d5584301d84fcbbba6a59bfdb143))
+* **pager:** make showLinks prop work correctly  ([#215](https://github.com/gridsome/gridsome/issues/215)) ([#1429](https://github.com/gridsome/gridsome/issues/1429)) ([f0b9bc7](https://github.com/gridsome/gridsome/commit/f0b9bc7604551055f504d2494db20a9375ce5d90))
+* **templates:** don't allow reserved names ([#1427](https://github.com/gridsome/gridsome/issues/1427)) ([4abeeed](https://github.com/gridsome/gridsome/commit/4abeeed83eb2c9dfdebed3e93f714ce7767f6b6f))
+* **templates:** throw error if component is missing in prod ([350f9f5](https://github.com/gridsome/gridsome/commit/350f9f5ad7667e2c76467adccc3c9d3942888b16)), closes [#702](https://github.com/gridsome/gridsome/issues/702)
+* alias vue to an absolute path ([432c005](https://github.com/gridsome/gridsome/commit/432c005fca02f6775ae3a099156d1d9436c58ac6))
+* provide vue-server-renderer with a basedir ([3f60762](https://github.com/gridsome/gridsome/commit/3f6076235a4de27e3c0186603fa64243fd6efe6f))
+* remove unnecessary modules ([b5f5a48](https://github.com/gridsome/gridsome/commit/b5f5a482c8fe95f67b147ed58a081c210455e8fa))
+* resolve plugins relative to config ([42f3d21](https://github.com/gridsome/gridsome/commit/42f3d217ef2a89749092132cb69ebba58af5036a))
+
+
+### Code Refactoring
+
+* **app:** move link catcher to directive ([4b4f262](https://github.com/gridsome/gridsome/commit/4b4f262e9552a81951805b15b4fd57d0f8833b95))
+
+
+### Features
+
+* `useMetaInfo` ([bc04d02](https://github.com/gridsome/gridsome/commit/bc04d02c7c46ee28b728724c49f7992fffa2224c))
+* `useRouter` and `useRoute` ([82bc7e3](https://github.com/gridsome/gridsome/commit/82bc7e31980b8574a6d3eb092d43449c4f545302))
+* `useStaticQuery` ([3cdd271](https://github.com/gridsome/gridsome/commit/3cdd27154d350130cc590cede71e18440b3ddced))
+* load `.env.local` and `.env.*.local` ([#1583](https://github.com/gridsome/gridsome/issues/1583)) ([9920cc8](https://github.com/gridsome/gridsome/commit/9920cc8ba4f81b431e1a3bb7bd1aa47f979b0d36))
+* upgrade to vue 2.7 ([6528b8b](https://github.com/gridsome/gridsome/commit/6528b8b4a139fc3e135bce03638c50c2ff6b5ce6))
+* **config:** `emptyOutputDir` config ([aea2af0](https://github.com/gridsome/gridsome/commit/aea2af0eaa645453d22e545f687270085248e298))
+* **develop:** webpack-dev-server for local dev ([#1470](https://github.com/gridsome/gridsome/issues/1470)) ([27011c6](https://github.com/gridsome/gridsome/commit/27011c61e1c4c95b2ecd5d5a246aebfc526983e3))
+* **graphql:** `position` argument for images ([#1471](https://github.com/gridsome/gridsome/issues/1471)) ([61dc649](https://github.com/gridsome/gridsome/commit/61dc64963449cc009b63c70f18961e536a4c00e0))
+* typescript support ([#1467](https://github.com/gridsome/gridsome/issues/1467)) ([b14defb](https://github.com/gridsome/gridsome/commit/b14defbe1afdc87f579d34729cd5496fbfd277d8))
+* webpack 5 ([#1523](https://github.com/gridsome/gridsome/issues/1523)) ([93344f3](https://github.com/gridsome/gridsome/commit/93344f31416f04cfd54e0d987b24162a5218ba60))
+* **develop:** https option for develop command ([#961](https://github.com/gridsome/gridsome/issues/961)) ([65ef93b](https://github.com/gridsome/gridsome/commit/65ef93b54be21f44f3133e05a79f995275e701cd))
+* **g-image:** generate placeholder with blurhash ([97006f6](https://github.com/gridsome/gridsome/commit/97006f60751fb2d9fa7b7d6070695cc1c275324f))
+* **g-image:** trace and dominant placeholder types ([57809a7](https://github.com/gridsome/gridsome/commit/57809a7534d47785d8802c8099cc2853c55227a5))
+* **graphql:** upgrade to graphql v15 ([58292d8](https://github.com/gridsome/gridsome/commit/58292d82ed45eeb79abdbe31c7beac750cb31528))
+* **gridsome:** add pnp support ([cd8f298](https://github.com/gridsome/gridsome/commit/cd8f298af8527e20e7443e2ba5dc3ddf85a25d7d))
+* **page-query:** include graphql with src attribute ([#806](https://github.com/gridsome/gridsome/issues/806)) ([6dd86f0](https://github.com/gridsome/gridsome/commit/6dd86f0369d2668d97f86cd1305cf934c5f002af))
+* make core-js imports absolute ([7e00df1](https://github.com/gridsome/gridsome/commit/7e00df1212882b5ee682e0cb5ffaaddb815f9602))
+* **sass-loader:** support for sass-loader@8 and above ([#1108](https://github.com/gridsome/gridsome/issues/1108)) ([34e980f](https://github.com/gridsome/gridsome/commit/34e980f16a486cb0dfd40008a33fb2bc48cbc6c9))
+
+
+### Performance Improvements
+
+* stream images while processing them ([d6e34f4](https://github.com/gridsome/gridsome/commit/d6e34f4281657b4a4402de7d093aad02170fb420))
+* **build:** improve render queue performance ([25ae955](https://github.com/gridsome/gridsome/commit/25ae955e14b25bd56a52a74749d633c203ab97c6))
+* **store:** disable adaptive binary indices ([#1190](https://github.com/gridsome/gridsome/issues/1190)) ([83d7c67](https://github.com/gridsome/gridsome/commit/83d7c67daeb454e0b6c64dada25dc655b7f8baec))
+
+
+### BREAKING CHANGES
+
+* **app:** use `v-catch-links` to make internal links in custom HTML use the Vue router
+
+
+
+
+
 ## [0.7.23](https://github.com/gridsome/gridsome/compare/gridsome@0.7.22...gridsome@0.7.23) (2020-11-22)
 
 

@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.7](https://github.com/gridsome/gridsome/tree/master/packages/vue-remark/compare/@gridsome/vue-remark@0.2.6...@gridsome/vue-remark@0.2.7) (2023-04-26)
+
+
+### Bug Fixes
+
+* **vue-remark:** add undeclared dependencies babel-loader and vue-loader ([cc3bdf1](https://github.com/gridsome/gridsome/tree/master/packages/vue-remark/commit/cc3bdf164787d9963a8444cdd0399ef92ef58dbb))
+* **vue-remark:** require.resolve webpack loaders ([40d7680](https://github.com/gridsome/gridsome/tree/master/packages/vue-remark/commit/40d76801001ef7cc4cfc6cf10b20bbbef241939a))
+
+
+
+
+
 ## [0.2.6](https://github.com/gridsome/gridsome/tree/master/packages/vue-remark/compare/@gridsome/vue-remark@0.2.5...@gridsome/vue-remark@0.2.6) (2020-11-22)
 
 **Note:** Version bump only for package @gridsome/vue-remark

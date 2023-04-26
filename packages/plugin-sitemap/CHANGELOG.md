@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/compare/@gridsome/plugin-sitemap@0.4.0...@gridsome/plugin-sitemap@0.5.0) (2023-04-26)
+
+
+### Features
+
+* **sitemap:** allow function as staticUrls option ([96e28fd](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/commit/96e28fd8a0c49636184c64ecde73c5ef15616b4c))
+
+
+
+
+
 # [0.4.0](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/compare/@gridsome/plugin-sitemap@0.3.0...@gridsome/plugin-sitemap@0.4.0) (2020-07-02)
 
 
