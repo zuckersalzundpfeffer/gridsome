@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.10.1](https://github.com/zuckersalzundpfeffer/gridsome/compare/@zuckersalzundpfeffer/gridsome@0.10.0...@zuckersalzundpfeffer/gridsome@0.10.1) (2023-05-03)
+
+**Note:** Version bump only for package @zuckersalzundpfeffer/gridsome
+
+
+
+
+
 # 0.10.0 (2023-05-03)
 
 
