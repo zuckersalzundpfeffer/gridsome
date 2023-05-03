@@ -3,7 +3,7 @@
 This repository is a [monorepo](https://en.wikipedia.org/wiki/Monorepo). You will find the changelogs here:
 
 - [gridsome](./gridsome/CHANGELOG.md)
-- [@gridsome/cli](./packages/cli/CHANGELOG.md)
+- [@zuckersalzundpfeffer/gridsome-cli](./packages/cli/CHANGELOG.md)
 - [@gridsome/plugin-critical](./packages/plugin-critical/CHANGELOG.md)
 - [@gridsome/plugin-google-analytics](./packages/plugin-google-analytics/CHANGELOG.md)
 - [@gridsome/plugin-sitemap](./packages/plugin-sitemap/CHANGELOG.md)

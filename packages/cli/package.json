@@ -1,6 +1,6 @@
 {
   "version": "0.4.1",
-  "name": "@gridsome/cli",
+  "name": "@zuckersalzundpfeffer/gridsome-cli",
   "description": "A command-line tool for creating new Gridsome projects.",
   "homepage": "https://github.com/gridsome/gridsome/tree/master/packages/cli#readme",
   "repository": "https://github.com/gridsome/gridsome/tree/master/packages/cli",
@@ -46,5 +46,5 @@
   "engines": {
     "node": "^12.13.0 || ^14.0.0 || >=16.0.0"
   },
-  "gitHead": "31106b6907fc7d1148098e5d0fcad78daeb10715"
+  "gitHead": "a4bbec44811cef947d87337bc60a9b54eb32cf22"
 }

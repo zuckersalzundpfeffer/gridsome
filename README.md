@@ -58,9 +58,9 @@ Gridsome sites are usually not connected to any database and can be hosted entir
 
 ### 1. Install Gridsome CLI tool
 
-- `npm install --global @gridsome/cli`
-- `yarn global add @gridsome/cli`
-- `pnpm install --global @gridsome/cli`
+- `npm install --global @zuckersalzundpfeffer/gridsome-cli`
+- `yarn global add @zuckersalzundpfeffer/gridsome-cli`
+- `pnpm install --global @zuckersalzundpfeffer/gridsome-cli`
 
 ### 2. Create a Gridsome project
 
@@ -90,7 +90,7 @@ Install [Node.js ^12.13.0 || ^14.0.0 || >=16.0.0](https://nodejs.org/en/download
 
 Make sure your test project has a version number in its `package.json` if you use an existing project.
 
-To use the local version of `@gridsome/cli` as the global command, enter the `./packages/cli` folder and run `npm link`.
+To use the local version of `@zuckersalzundpfeffer/gridsome-cli` as the global command, enter the `./packages/cli` folder and run `npm link`.
 
 Yarn will add dependencies from your test projects to the root `yarn.lock` file. So you should not commit changes in that file unless you have added dependencies to any of the core packages. If you need to commit it, remove your projects from the `./projects` folder temporary and run `yarn install` in the root folder. Yarn will then clean up the lock file with only necessary dependencies. Commit the file and move your projects back and run `yarn install` again to start developing.
 

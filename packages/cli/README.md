@@ -1,4 +1,4 @@
-# @gridsome/cli
+# @zuckersalzundpfeffer/gridsome-cli
 
 > A command line tool for creating new Gridsome projects.
 
@@ -6,9 +6,9 @@
 
 Install globally with
 
-- `npm install --global @gridsome/cli`
-- `yarn global add @gridsome/cli`
-- `pnpm install --global @gridsome/cli`
+- `npm install --global @zuckersalzundpfeffer/gridsome-cli`
+- `yarn global add @zuckersalzundpfeffer/gridsome-cli`
+- `pnpm install --global @zuckersalzundpfeffer/gridsome-cli`
 
 ## Creating new projects
 

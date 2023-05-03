@@ -36,9 +36,9 @@ Build websites using latest web tech tools that developers love - Vue.js, GraphQ
 
 ### 1. Install Gridsome CLI tool
 
-- `npm install --global @gridsome/cli`
-- `yarn global add @gridsome/cli`
-- `pnpm install --global @gridsome/cli`
+- `npm install --global @zuckersalzundpfeffer/gridsome-cli`
+- `yarn global add @zuckersalzundpfeffer/gridsome-cli`
+- `pnpm install --global @zuckersalzundpfeffer/gridsome-cli`
 
 ### 2. Create a Gridsome project
 

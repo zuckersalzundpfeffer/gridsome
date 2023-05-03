@@ -3,15 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.4.1](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.4.0...@gridsome/cli@0.4.1) (2023-04-26)
+## [0.4.1](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.4.0...@zuckersalzundpfeffer/gridsome-cli@0.4.1) (2023-04-26)
 
-**Note:** Version bump only for package @gridsome/cli
-
-
+**Note:** Version bump only for package @zuckersalzundpfeffer/gridsome-cli
 
 
 
-# [0.4.0](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.3.4...@gridsome/cli@0.4.0) (2023-04-26)
+
+
+# [0.4.0](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.3.4...@zuckersalzundpfeffer/gridsome-cli@0.4.0) (2023-04-26)
 
 
 ### Bug Fixes
@@ -28,7 +28,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.4](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.3.3...@gridsome/cli@0.3.4) (2020-08-20)
+## [0.3.4](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.3.3...@zuckersalzundpfeffer/gridsome-cli@0.3.4) (2020-08-20)
 
 
 ### Bug Fixes
@@ -39,7 +39,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.3](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.3.2...@gridsome/cli@0.3.3) (2020-05-26)
+## [0.3.3](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.3.2...@zuckersalzundpfeffer/gridsome-cli@0.3.3) (2020-05-26)
 
 
 ### Bug Fixes
@@ -50,23 +50,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.2](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.3.1...@gridsome/cli@0.3.2) (2020-04-18)
+## [0.3.2](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.3.1...@zuckersalzundpfeffer/gridsome-cli@0.3.2) (2020-04-18)
 
-**Note:** Version bump only for package @gridsome/cli
-
-
-
-
-
-## [0.3.1](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.3.0...@gridsome/cli@0.3.1) (2019-10-15)
-
-**Note:** Version bump only for package @gridsome/cli
+**Note:** Version bump only for package @zuckersalzundpfeffer/gridsome-cli
 
 
 
 
 
-# [0.3.0](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.2.3...@gridsome/cli@0.3.0) (2019-10-01)
+## [0.3.1](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.3.0...@zuckersalzundpfeffer/gridsome-cli@0.3.1) (2019-10-15)
+
+**Note:** Version bump only for package @zuckersalzundpfeffer/gridsome-cli
+
+
+
+
+
+# [0.3.0](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.2.3...@zuckersalzundpfeffer/gridsome-cli@0.3.0) (2019-10-01)
 
 
 ### Features
@@ -77,7 +77,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.3](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.2.2...@gridsome/cli@0.2.3) (2019-09-11)
+## [0.2.3](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.2.2...@zuckersalzundpfeffer/gridsome-cli@0.2.3) (2019-09-11)
 
 
 ### Bug Fixes
@@ -89,7 +89,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.2](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.2.1...@gridsome/cli@0.2.2) (2019-08-19)
+## [0.2.2](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.2.1...@zuckersalzundpfeffer/gridsome-cli@0.2.2) (2019-08-19)
 
 
 ### Bug Fixes
@@ -100,15 +100,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.1](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.2.0...@gridsome/cli@0.2.1) (2019-06-25)
+## [0.2.1](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.2.0...@zuckersalzundpfeffer/gridsome-cli@0.2.1) (2019-06-25)
 
-**Note:** Version bump only for package @gridsome/cli
-
-
+**Note:** Version bump only for package @zuckersalzundpfeffer/gridsome-cli
 
 
 
-# [0.2.0](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.1.1...@gridsome/cli@0.2.0) (2019-06-07)
+
+
+# [0.2.0](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.1.1...@zuckersalzundpfeffer/gridsome-cli@0.2.0) (2019-06-07)
 
 
 ### Features
@@ -119,15 +119,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.1](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.1.0...@gridsome/cli@0.1.1) (2019-05-20)
+## [0.1.1](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.1.0...@zuckersalzundpfeffer/gridsome-cli@0.1.1) (2019-05-20)
 
-**Note:** Version bump only for package @gridsome/cli
-
-
+**Note:** Version bump only for package @zuckersalzundpfeffer/gridsome-cli
 
 
 
-# [0.1.0](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.0.9...@gridsome/cli@0.1.0) (2019-05-10)
+
+
+# [0.1.0](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.0.9...@zuckersalzundpfeffer/gridsome-cli@0.1.0) (2019-05-10)
 
 
 ### Features
@@ -138,7 +138,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.9](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.0.8...@gridsome/cli@0.0.9) (2019-03-29)
+## [0.0.9](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.0.8...@zuckersalzundpfeffer/gridsome-cli@0.0.9) (2019-03-29)
 
 
 ### Bug Fixes
@@ -150,7 +150,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="0.0.8"></a>
-## [0.0.8](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@gridsome/cli@0.0.7...@gridsome/cli@0.0.8) (2019-02-19)
+## [0.0.8](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.0.7...@zuckersalzundpfeffer/gridsome-cli@0.0.8) (2019-02-19)
 
 
 ### Bug Fixes
@@ -163,7 +163,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="0.0.7"></a>
-## [0.0.7](https://github.com/gridsome/gridsome/compare/@gridsome/cli@0.0.6...@gridsome/cli@0.0.7) (2018-11-23)
+## [0.0.7](https://github.com/gridsome/gridsome/compare/@zuckersalzundpfeffer/gridsome-cli@0.0.6...@zuckersalzundpfeffer/gridsome-cli@0.0.7) (2018-11-23)
 
 
 ### Bug Fixes
@@ -172,7 +172,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="0.0.6"></a>
-## [0.0.6](https://github.com/gridsome/gridsome/compare/@gridsome/cli@0.0.5...@gridsome/cli@0.0.6) (2018-10-15)
+## [0.0.6](https://github.com/gridsome/gridsome/compare/@zuckersalzundpfeffer/gridsome-cli@0.0.5...@zuckersalzundpfeffer/gridsome-cli@0.0.6) (2018-10-15)
 
 
 ### Bug Fixes
@@ -182,7 +182,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="0.0.5"></a>
-## [0.0.5](https://github.com/gridsome/gridsome/compare/@gridsome/cli@0.0.4...@gridsome/cli@0.0.5) (2018-09-18)
+## [0.0.5](https://github.com/gridsome/gridsome/compare/@zuckersalzundpfeffer/gridsome-cli@0.0.4...@zuckersalzundpfeffer/gridsome-cli@0.0.5) (2018-09-18)
 
 
 ### Bug Fixes
@@ -191,7 +191,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="0.0.4"></a>
-## [0.0.4](https://github.com/gridsome/gridsome/compare/@gridsome/cli@0.0.3...@gridsome/cli@0.0.4) (2018-09-17)
+## [0.0.4](https://github.com/gridsome/gridsome/compare/@zuckersalzundpfeffer/gridsome-cli@0.0.3...@zuckersalzundpfeffer/gridsome-cli@0.0.4) (2018-09-17)
 
 
 ### Bug Fixes
@@ -200,7 +200,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="0.0.3"></a>
-## [0.0.3](https://github.com/gridsome/gridsome/compare/142896c2454016dc989a7872faffec7263fc658c...@gridsome/cli@0.0.3) (2018-09-17)
+## [0.0.3](https://github.com/gridsome/gridsome/compare/142896c2454016dc989a7872faffec7263fc658c...@zuckersalzundpfeffer/gridsome-cli@0.0.3) (2018-09-17)
 
 
 ### Bug Fixes
@@ -210,4 +210,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="0.0.2"></a>
-## [0.0.2](https://github.com/gridsome/gridsome/compare/142896c2454016dc989a7872faffec7263fc658c...@gridsome/cli@0.0.3) (2018-09-16)
+## [0.0.2](https://github.com/gridsome/gridsome/compare/142896c2454016dc989a7872faffec7263fc658c...@zuckersalzundpfeffer/gridsome-cli@0.0.3) (2018-09-16)
