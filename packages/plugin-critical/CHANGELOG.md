@@ -3,6 +3,38 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.4.0 (2023-05-03)
+
+
+### Bug Fixes
+
+* **critical:** ignore trailing slash in patterns ([3af5443](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/commit/3af5443208712f81f0b638a8da47591940175f16))
+* **critical:** polyfill for preload ([506bcc4](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/commit/506bcc404268a9274e726fa043e037e832d91138))
+* **critical:** prevent possible memory leak ([#485](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/issues/485)) ([0d70729](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/commit/0d7072989f69ba484c092fef9d933e8dca6bab54))
+* **critical:** remove path prefix from hashed urls ([cb33203](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/commit/cb33203293c19aa3ee2cbfddbe299a17b4b08518))
+* **critical:** use htmlOutput ([c2c9670](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/commit/c2c9670f7d668ced59cb2944fe801413f90b346c))
+* **critical:** use publicPath as path prefix ([e866517](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/commit/e866517713b16538d7d9966101193fa5732815bd))
+* **plugin-critical:** dont inline if failing ([56f375e](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/commit/56f375edcdf0b6ffcac379b35519033eb3f8dda8))
+
+
+### Features
+
+* **critical:** upgrade to critical v2 ([#1101](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/issues/1101)) ([b969647](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/commit/b9696474369a84dd6ea79333bb1e1c931e58e63c))
+* **critical:** upgrade to critical v4 ([ee64443](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/commit/ee64443fec47546cd7039c2b0f56bde0f284f2f5))
+* build hooks ([32774f0](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/commit/32774f0bbdc719843cd6331d2461d301987bfd8e))
+
+
+
+## 0.0.2 (2018-09-16)
+
+
+
+## 0.0.1 (2018-09-16)
+
+
+
+
+
 ## [0.3.1](https://github.com/gridsome/gridsome/tree/master/packages/plugin-critical/compare/@gridsome/plugin-critical@0.3.0...@gridsome/plugin-critical@0.3.1) (2023-04-26)
 
 **Note:** Version bump only for package @gridsome/plugin-critical

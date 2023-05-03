@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.6.0 (2023-05-03)
+
+
+### Bug Fixes
+
+* **sitemap:** add trailing slash to urls ([#444](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/issues/444)) ([5c11233](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/commit/5c11233a218c833437a6689fb8bdc9744e0ac684))
+* **sitemap:** ignore trailing slash in patterns ([7b0abd5](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/commit/7b0abd55a0eac51e8fe589f8490117ee3ba3e884))
+
+
+### Features
+
+* **sitemap:** add support for static urls ([#392](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/issues/392)) ([3d2fd2c](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/commit/3d2fd2c57b07956dd88b08573c0cca80ca81e5e3))
+* **sitemap:** allow function as staticUrls option ([96e28fd](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/commit/96e28fd8a0c49636184c64ecde73c5ef15616b4c))
+* **sitemap:** generate xml sitemap ([#113](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/issues/113)) ([46b83fa](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/commit/46b83fa0a39c1b782c2bd255f678c2818d181091)), closes [#110](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/issues/110)
+* **sitemap:** option to include paths ([5a311df](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/commit/5a311dfdc8775933f7586f00fefa6695e69a096f))
+* **sitemap:** set lastmod config for urls ([#1228](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/issues/1228)) ([1672636](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/commit/16726365c4ab5dd1aaad57de268f8e284cb05dbc))
+
+
+
+
+
 ## [0.5.1](https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap/compare/@gridsome/plugin-sitemap@0.5.0...@gridsome/plugin-sitemap@0.5.1) (2023-04-26)
 
 **Note:** Version bump only for package @gridsome/plugin-sitemap

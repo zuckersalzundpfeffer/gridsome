@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.3.0 (2023-05-03)
+
+
+### Features
+
+* update for latests changes in core ([8abcbf4](https://github.com/gridsome/gridsome/tree/master/packages/transformer-csv/commit/8abcbf46910a9e5e470a95ff1bf5a1b5b98ac15e))
+* **transformer-csv:** parse csv files ([#293](https://github.com/gridsome/gridsome/tree/master/packages/transformer-csv/issues/293)) ([eba084d](https://github.com/gridsome/gridsome/tree/master/packages/transformer-csv/commit/eba084d4299c089585f139387e41b8df3818c047))
+
+
+
+
+
 ## [0.2.4](https://github.com/gridsome/gridsome/tree/master/packages/transformer-csv/compare/@gridsome/transformer-csv@0.2.3...@gridsome/transformer-csv@0.2.4) (2023-04-26)
 
 **Note:** Version bump only for package @gridsome/transformer-csv

@@ -3,6 +3,48 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.5.0 (2023-05-03)
+
+
+### Bug Fixes
+
+* detect yarn 2 built from sources correctly ([70234ef](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/70234ef9d21d2b26308e3de2d0bca2f5f2948b29))
+* **cli:** allow any url as starter ([b689dd1](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/b689dd1c342a5d059ad54653619279beaa4ed118))
+* **cli:** create project in current directory ([#179](https://github.com/gridsome/gridsome/tree/master/packages/cli/issues/179)) ([efb7b06](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/efb7b0676cf6e57b5446f15e297a187ddc989004))
+* **cli:** dont use deprecated yarn versions ([06e876c](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/06e876cf5fa163e40e454f73dd6958e833dd6375))
+* **cli:** include package name in version ([#176](https://github.com/gridsome/gridsome/tree/master/packages/cli/issues/176)) ([e90538c](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/e90538c6b85c3d38b5bcb09d0a1b2fc14459d079))
+* **cli:** install dependencies after create ([fa5caea](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/fa5caeaf849999938f35b2ce562a58de864b16dc))
+* **cli:** prefer npm if the starter has package-lock.json ([#1282](https://github.com/gridsome/gridsome/tree/master/packages/cli/issues/1282)) ([5252622](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/5252622dfbcc8df4a09ff1bf564acbe2bd9adcf0))
+* **cli:** resolve context with package.json ([17c282e](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/17c282e620d94fdff555d4c9ac107bbd1f525c20))
+* **cli:** resolve local gridsome ([3f2201d](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/3f2201d89e26e3138240f3f7f81509f485f9441f))
+* **cli:** show error message if install fails [#7](https://github.com/gridsome/gridsome/tree/master/packages/cli/issues/7) ([af0021e](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/af0021ed0527648cc4f40de73934efde97535eda))
+* **cli:** show help for unknown commands ([#1130](https://github.com/gridsome/gridsome/tree/master/packages/cli/issues/1130)) ([e8a1b59](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/e8a1b5902266ed473ff5e3c2f6206390aaeeb99a))
+* **cli:** show progress when installing deps ([bb18351](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/bb183513dbb54d20c98dd85758bdfe21e35fc110))
+* **cli:** show suggested command when installed ([b70fefa](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/b70fefab4750a84413e57fdcff2d2fc7a934b23b))
+* **cli:** show update notification ([46fe174](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/46fe1749e403bd88a6af219decf9d63e1a2a8c14))
+* **cli:** show warning for missing deps ([#281](https://github.com/gridsome/gridsome/tree/master/packages/cli/issues/281)) ([89d6aa3](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/89d6aa365eb44cde258f361d704b1ad06dbba04f))
+
+
+### Features
+
+* **cli:** gridsome info command ([#695](https://github.com/gridsome/gridsome/tree/master/packages/cli/issues/695)) ([14c3048](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/14c30482dc988a022001489f4aaad4b2b93b26ba))
+* **cli:** pick a starter when creating new site ([549d487](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/549d487704e1811582d45e435010cb86a2530c75))
+* **cli:** pick preferred package manger ([1336df0](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/1336df02372366425ad05c3d90a99cff6d9ca994))
+* **cli:** suggest matching commands ([#481](https://github.com/gridsome/gridsome/tree/master/packages/cli/issues/481)) ([1b8df18](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/1b8df1870bc7a859ac091530d24e0154d1f04678))
+* **cli:** support relative github repository urls ([2df6d80](https://github.com/gridsome/gridsome/tree/master/packages/cli/commit/2df6d806fcadebf425328f020bef6fccb7bf15d9))
+
+
+
+## 0.0.2 (2018-09-16)
+
+
+
+## 0.0.1 (2018-09-16)
+
+
+
+
+
 ## [0.4.1](https://github.com/gridsome/gridsome/tree/master/packages/cli/compare/@zuckersalzundpfeffer/gridsome-cli@0.4.0...@zuckersalzundpfeffer/gridsome-cli@0.4.1) (2023-04-26)
 
 **Note:** Version bump only for package @zuckersalzundpfeffer/gridsome-cli

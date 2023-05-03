@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2023-05-03)
+
+
+### Features
+
+* **google-analytics:** initial plugin ([#96](https://github.com/gridsome/gridsome/tree/master/packages/plugin-google-analytics/issues/96)) ([7128b60](https://github.com/gridsome/gridsome/tree/master/packages/plugin-google-analytics/commit/7128b60c625b4583bf02394d363be00a3f44e623)), closes [#79](https://github.com/gridsome/gridsome/tree/master/packages/plugin-google-analytics/issues/79)
+
+
+
+
+
 ## [0.1.4](https://github.com/gridsome/gridsome/tree/master/packages/plugin-google-analytics/compare/@gridsome/plugin-google-analytics@0.1.3...@gridsome/plugin-google-analytics@0.1.4) (2023-04-26)
 
 **Note:** Version bump only for package @gridsome/plugin-google-analytics

@@ -1,5 +1,5 @@
 {
-  "version": "0.2.3",
+  "version": "0.3.0",
   "name": "@zuckersalzundpfeffer/gridsome-transformer-json",
   "description": "JSON transformer for Gridsome",
   "homepage": "https://github.com/gridsome/gridsome/tree/master/packages/transformer-json#readme",
