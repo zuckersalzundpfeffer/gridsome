@@ -1,6 +1,6 @@
 {
   "version": "0.5.1",
-  "name": "@gridsome/plugin-sitemap",
+  "name": "@zuckersalzundpfeffer/gridsome-plugin-sitemap",
   "description": "Generate sitemap for Gridsome sites",
   "homepage": "https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap#readme",
   "repository": "https://github.com/gridsome/gridsome/tree/master/packages/plugin-sitemap",
