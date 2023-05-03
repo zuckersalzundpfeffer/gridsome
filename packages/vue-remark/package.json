@@ -1,6 +1,6 @@
 {
   "version": "0.2.8",
-  "name": "@gridsome/vue-remark",
+  "name": "@zuckersalzundpfeffer/gridsome-vue-remark",
   "description": "Use Vue Components in Markdown",
   "homepage": "https://github.com/gridsome/gridsome/tree/master/packages/vue-remark#readme",
   "repository": "https://github.com/gridsome/gridsome/tree/master/packages/vue-remark",
